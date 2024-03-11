@@ -1,0 +1,12 @@
+name
+duration
+type
+groupSize
+price
+hero
+overview
+highlights
+includes
+excludes
+itenary
+faq
